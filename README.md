@@ -8,7 +8,7 @@ const greg = {
   email: "greg@secretcity.tech",
   linkedin: "https://www.linkedin.com/in/greglonick/",
   focus: "enterprise security + ai adoption patterns, adapted for a family homelab",
-  writing: ["homelab security", "safe ai for the household", "automation"],
+  writing: ["homelab security", "secure, cost-efficient ai for the family", "smart home automation"],
   disclaimer: "personal projects; not cloudflare's views or approved architecture",
   platform: "cloudflare",
   languages: ["typescript", "bash", "fish"],
